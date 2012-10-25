@@ -1,4 +1,3 @@
-
 body {
 	background: #fff url(bricks.gif);
 	margin:0;
@@ -77,10 +76,11 @@ body {
 	font-weight: bold;
 	margin-left:0px;
 	padding:0px;
+	border:1px 1px 1px 1px;
 }
 
 #sidebar a:hover {
-	background: #006666 	;
+	background-color: fuchsia 	;
 	
 }
 
