@@ -1,5 +1,4 @@
 
-
 body {
 	background: #fff url(bricks.gif);
 	margin:0;
@@ -10,7 +9,7 @@ body {
 	
 #wrapper {
 	width: 1000px;
-	border: 10px solid #eee;
+	border: 10px solid fuchsia;
 	background: #fff url(left-col.png) repeat-y;
 	margin: 40px auto;
 	padding: 0px;
@@ -113,7 +112,7 @@ img
 {
 float:right;
 margin: 5px 30px 30px 20px;
-box-shadow: 0 2px 5px #333;
+box-shadow: 0 2px 5px blue;
 border-radius: 10px;
 border: 8px solid #fff;
 
